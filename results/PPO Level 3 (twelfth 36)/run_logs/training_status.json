@@ -1,0 +1,65 @@
+{
+    "BasicAI": {
+        "checkpoints": [
+            {
+                "steps": 199964,
+                "file_path": "results\\PPOTest\\BasicAI\\BasicAI-199964.onnx",
+                "reward": -0.7744249850511551,
+                "creation_time": 1648048346.9944632,
+                "auxillary_file_paths": [
+                    "results\\PPOTest\\BasicAI\\BasicAI-199964.pt"
+                ]
+            },
+            {
+                "steps": 299975,
+                "file_path": "results\\PPOTest\\BasicAI\\BasicAI-299975.onnx",
+                "reward": -1.1835625157691538,
+                "creation_time": 1648049096.8122303,
+                "auxillary_file_paths": [
+                    "results\\PPOTest\\BasicAI\\BasicAI-299975.pt"
+                ]
+            },
+            {
+                "steps": 399937,
+                "file_path": "results\\PPOTest\\BasicAI\\BasicAI-399937.onnx",
+                "reward": 0.19439380220137537,
+                "creation_time": 1648049829.819137,
+                "auxillary_file_paths": [
+                    "results\\PPOTest\\BasicAI\\BasicAI-399937.pt"
+                ]
+            },
+            {
+                "steps": 499968,
+                "file_path": "results\\PPOTest\\BasicAI\\BasicAI-499968.onnx",
+                "reward": null,
+                "creation_time": 1648050570.4187167,
+                "auxillary_file_paths": [
+                    "results\\PPOTest\\BasicAI\\BasicAI-499968.pt"
+                ]
+            },
+            {
+                "steps": 500032,
+                "file_path": "results\\PPOTest\\BasicAI\\BasicAI-500032.onnx",
+                "reward": null,
+                "creation_time": 1648050570.765804,
+                "auxillary_file_paths": [
+                    "results\\PPOTest\\BasicAI\\BasicAI-500032.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500032,
+            "file_path": "results\\PPOTest\\BasicAI.onnx",
+            "reward": null,
+            "creation_time": 1648050570.765804,
+            "auxillary_file_paths": [
+                "results\\PPOTest\\BasicAI\\BasicAI-500032.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

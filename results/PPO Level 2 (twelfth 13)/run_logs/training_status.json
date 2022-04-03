@@ -1,0 +1,38 @@
+{
+    "BasicAI": {
+        "checkpoints": [
+            {
+                "steps": 499957,
+                "file_path": "results\\PPOTest\\BasicAI\\BasicAI-499957.onnx",
+                "reward": null,
+                "creation_time": 1647448739.4239695,
+                "auxillary_file_paths": [
+                    "results\\PPOTest\\BasicAI\\BasicAI-499957.pt"
+                ]
+            },
+            {
+                "steps": 500021,
+                "file_path": "results\\PPOTest\\BasicAI\\BasicAI-500021.onnx",
+                "reward": null,
+                "creation_time": 1647448739.7795293,
+                "auxillary_file_paths": [
+                    "results\\PPOTest\\BasicAI\\BasicAI-500021.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500021,
+            "file_path": "results\\PPOTest\\BasicAI.onnx",
+            "reward": null,
+            "creation_time": 1647448739.7795293,
+            "auxillary_file_paths": [
+                "results\\PPOTest\\BasicAI\\BasicAI-500021.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

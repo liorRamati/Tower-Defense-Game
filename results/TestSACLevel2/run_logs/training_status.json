@@ -1,0 +1,29 @@
+{
+    "BasicSAC": {
+        "checkpoints": [
+            {
+                "steps": 419088,
+                "file_path": "results\\TestSACLevel2\\BasicSAC\\BasicSAC-419088.onnx",
+                "reward": null,
+                "creation_time": 1646675712.9492245,
+                "auxillary_file_paths": [
+                    "results\\TestSACLevel2\\BasicSAC\\BasicSAC-419088.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 419088,
+            "file_path": "results\\TestSACLevel2\\BasicSAC.onnx",
+            "reward": null,
+            "creation_time": 1646675712.9492245,
+            "auxillary_file_paths": [
+                "results\\TestSACLevel2\\BasicSAC\\BasicSAC-419088.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
